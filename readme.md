@@ -9,13 +9,16 @@ Guilherme Bastos de Oliveira
 ### Comandos
 - <kbd>Esc</kbd>: fecha o jogo
 
-- <kbd>&uparrow;</kbd>: move peça para cima
+- <kbd>Barra de Espaço</kbd>: inicia movimento da bola
 
-- <kbd>&downarrow;</kbd>: move peça para baixo
+- <kbd>W</kbd>: move peça esquerda para cima
 
-- <kbd>W</kbd>: move peça para cima
+- <kbd>S</kbd>: move peça esquerda para baixo
 
-- <kbd>S</kbd>: move peça para baixo
+- <kbd>&uparrow;</kbd>: move peça direita para cima
+
+- <kbd>&downarrow;</kbd>: move peça direita para baixo
 
 ## Informações Adicionais
 - Utiliza a biblioteca [Pygame](https://www.pygame.org/)
+- Utiliza a fonte [SquareFont](https://www.dafont.com/squarefont.font)
