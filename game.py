@@ -71,7 +71,7 @@ while not finished:
     leftPaddle.draw(screen)
     rightPaddle.draw(screen)
     ball.draw(screen)
-    drawBoard(screen, 20, HEIGHT, WIDTH)
+    drawBoard(screen, 10, HEIGHT, WIDTH)
     pygame.display.flip()
     clock.tick()
 
